@@ -1,4 +1,4 @@
-# 🚀 Advance NLP & Generative AI Bootcamp
+# 🚀 Advance NLP & Generative AI
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -7,14 +7,13 @@
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-> **Instructor**: Ratnesh Kumar Singh  
 > **Focus**: Generative AI, LLMs, RAG, Agents, & MLOps
 
 ---
 
 ## 🌟 Overview
 
-Welcome to the **Advance NLP & Generative AI Bootcamp**. This comprehensive program is designed to provide a deep understanding of **Natural Language Processing (NLP)** through the lens of **Generative AI**.
+Welcome to the **Advance NLP & Generative AI**. This comprehensive program is designed to provide a deep understanding of **Natural Language Processing (NLP)** through the lens of **Generative AI**.
 
 We focus on mastering key concepts like **language modeling**, **text generation**, and **neural architectures**. You will gain hands-on experience in analyzing, generating, and manipulating textual data using advanced transformer-based models. By exploring state-of-the-art (SOTA) techniques, you will be empowered to develop innovative applications that harness the transformative potential of **Large Language Models (LLMs)**.
 
@@ -30,7 +29,7 @@ We focus on mastering key concepts like **language modeling**, **text generation
 
 ---
 
-## 📚 Course Curriculum
+## 📚 Breakdown
 
 ### 🔹 Module 1: Classical NLP & Introduction to GenAI
 *   **Overview**: Bridge the gap between classical NLP (ANN, CNN, RNN/LSTM) and modern Generative AI.
@@ -126,7 +125,7 @@ A responsive chatbot designed to handle complex queries using RAG.
 ---
 
 ## 📄 License
-This content is part of the **Advance NLP & Generative AI Bootcamp** created by **Ratnesh Kumar Singh**.
+This content is part of the **Advance NLP & Generative AI** course.
 
 ---
-*Generated for the Advance NLP & Generative AI Bootcamp Curriculum.*
+*Generated for the Advance NLP & Generative AI Curriculum.*
