@@ -76,63 +76,78 @@ We focus on mastering key concepts like **language modeling**, **text generation
 ### 🔹 Module 1: Classical NLP & Introduction to GenAI
 *   **Overview**: Bridge the gap between classical NLP (ANN, CNN, RNN/LSTM) and modern Generative AI.
 *   **Key Topics**: Neural Architectures, GenAI Fundamentals, Ethical AI, Encoder-Decoder Structures.
+<img width="1128" height="1216" alt="image" src="https://github.com/user-attachments/assets/1e527659-e098-4173-b68d-26e6278da9a5" />
 
 ### 🔹 Module 2: The Transformer Architecture
 *   **Overview**: Deep dive into the backbone of modern LLMs.
 *   **Key Topics**: Self-Attention, Multi-Head Attention, Geometric Insights, PyTorch Implementation of Transformers.
+<img width="1143" height="1135" alt="image" src="https://github.com/user-attachments/assets/c135c52b-07d3-425f-87fc-38ed69953229" />
 
 ### 🔹 Module 3: Fundamentals of LLMs
 *   **Overview**: Understanding Foundation Models.
 *   **Key Topics**: BERT, GPT, LLAMA Architectures, Training Processes.
+<img width="1120" height="1207" alt="image" src="https://github.com/user-attachments/assets/87608e7b-468e-4c66-bdd9-00d2e8c6b329" />
 
 ### 🔹 Module 4: Word & Sentence Embeddings
 *   **Overview**: techniques for representing text as numbers.
 *   **Key Topics**: Word2Vec, BERT Embeddings, Evaluation Metrics.
+<img width="1105" height="1215" alt="image" src="https://github.com/user-attachments/assets/6a5467c9-ac3b-4d06-9cfa-06f9ec989c39" />
 
 ### 🔹 Module 5: Mastering Hugging Face
 *   **Overview**: The standard library for NLP.
 *   **Key Topics**: HF API & Inference, Fine-Tuning LLMs, Model Deployment, Multimedia Models.
+<img width="1114" height="1308" alt="image" src="https://github.com/user-attachments/assets/3329db10-33e3-4445-b391-ca976e78a0b2" />
 
 ### 🔹 Module 6: Major AI APIs
 *   **Overview**: Leveraging commercial SOTA models.
 *   **Key Topics**: OpenAI (GPT-3.5/4), Google Gemini, Anthropic Claude.
+<img width="1116" height="1288" alt="image" src="https://github.com/user-attachments/assets/ea7416e0-a9aa-41cb-bfb8-9bf617fba3ba" />
 
 ### 🔹 Module 7: Fine-Tuning Specialized AI
 *   **Overview**: Tailoring models to specific needs.
 *   **Key Topics**: Transfer Learning, PEFT, RLHF (PPO, DPO), Model Quantization (4-bit, 8-bit).
+<img width="1095" height="1316" alt="image" src="https://github.com/user-attachments/assets/f1484390-00a3-44fc-894d-1ac099451d14" />
 
 ### 🔹 Module 8: Vector Databases
 *   **Overview**: The memory for your AI.
 *   **Key Topics**: Indexing, Similarity Search, FAISS, ChromaDB, Qdrant, Pinecone.
+<img width="948" height="1242" alt="image" src="https://github.com/user-attachments/assets/2866bccd-cce5-4365-871e-86c2c0388d32" />
 
 ### 🔹 Module 9: Retrieval Augmented Generation (RAG)
 *   **Overview**: Building context-aware AI.
 *   **Key Topics**: End-to-End RAG Pipelines, Hybrid Search, Multimodal RAG, Knowledge Graphs.
+<img width="988" height="1201" alt="image" src="https://github.com/user-attachments/assets/e329c298-c392-42d6-aab0-e22a41eb6e2a" />
 
 ### 🔹 Module 10: Comprehensive Guide to LangChain
 *   **Overview**: The framework for building LLM apps.
 *   **Key Topics**: Chains, Prompts, Tools, Agents, LangServe, LangSmith.
+<img width="995" height="1204" alt="image" src="https://github.com/user-attachments/assets/7f4fe55e-d57f-48bb-a741-3aecbdb75387" />
 
 ### 🔹 Module 11: Application with LlamaIndex
 *   **Overview**: Data framework for LLM applications.
 *   **Key Topics**: Data Loaders, RAG Implementation, Agents, Llama Hub.
+<img width="996" height="1209" alt="image" src="https://github.com/user-attachments/assets/ce9cc0bf-d907-43a6-8c96-5ee19130afc2" />
 
 ### 🔹 Module 12: AI Agents
 *   **Overview**: Autonomous AI systems.
 *   **Key Topics**: ReAct, Self-Ask Agents, Multi-Agent Systems, LangGraph.
+<img width="983" height="1192" alt="image" src="https://github.com/user-attachments/assets/6ec21fa5-230f-4a71-bcad-46c2231da3ee" />
 
 ### 🔹 Module 13: Local LLMs & Inference
 *   **Overview**: Running AI on your own hardware.
 *   **Key Topics**: Ollama, Llama.cpp, LM Studio, Hugging Face Downloader.
+<img width="965" height="1008" alt="image" src="https://github.com/user-attachments/assets/cfb9f409-0689-405f-a6b6-bf05a5416c07" />
 
 ### 🔹 Module 14: LLMOps
 *   **Overview**: Productionizing LLM Applications.
 *   **Key Topics**: MLOps Tools (ZenML, MLflow), Deployment (Flask/FastAPI), Cloud Platforms.
+<img width="989" height="1124" alt="image" src="https://github.com/user-attachments/assets/82f7134b-c082-4e5e-84e3-28e260521a96" />
 
 ### 🔹 Module 15: End-to-End Projects
 Real-world application development:
 1.  **Trading Bot (Multi-AI Agent System)**: Market data analysis, risk monitoring, AWS deployment.
 2.  **Customer Support Chatbot**: RAG-based flows, UI design, CI/CD pipelines.
+<img width="953" height="1213" alt="image" src="https://github.com/user-attachments/assets/b5b3dfcd-89a9-4797-8a5e-fc1379c5f41a" />
 
 ---
 
