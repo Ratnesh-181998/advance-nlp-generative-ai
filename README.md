@@ -34,6 +34,16 @@
 
 ---
 
+## 📖 Table of Contents
+- [🌟 Overview](#-overview)
+- [🎯 Key Objectives](#-key-objectives)
+- [📚 Breakdown](#-breakdown)
+- [🛠️ Technology Stack](#-technology-stack)
+- [🚀 Projects & Case Studies](#-projects--case-studies)
+- [📄 License](#-license)
+
+---
+
 ## 🌟 Overview
 
 Welcome to the **Advance NLP & Generative AI**. This comprehensive program is designed to provide a deep understanding of **Natural Language Processing (NLP)** through the lens of **Generative AI**.
