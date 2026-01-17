@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=%F0%9F%9A%80%20Advance%20NLP%20%26%20Generative%20AI&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=%F0%9F%9A%80%20Advance%20NLP%20%26%20Generative%20AI&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ---
