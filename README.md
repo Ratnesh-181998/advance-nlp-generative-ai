@@ -1,7 +1,7 @@
 # 🚀 Advance NLP & Generative AI
 
 
-<div align="center">
+<div >
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -30,7 +30,7 @@
 
 </div>
 
-> **Focus**: Generative AI, LLMs, RAG, Agents, & MLOps
+> **Focus**: NLP ,Generative AI, LLMs, RAG, Agents, & MLOps
 
 ---
 
