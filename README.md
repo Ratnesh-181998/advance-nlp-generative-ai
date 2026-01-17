@@ -1,10 +1,6 @@
 ---
 
-<div align="center">
-  <img src="https://capsulerender.vercel.app/apitype=waving&height=260&color=gradient&text=Advance%20NLP%20%26%20Generative%20AI&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=LLMs%20%7C%20RAG%20%7C%20Agents%20%7C%20LLMOps&descAlign=62"alt="Advance NLP & Generative AI"/>
-    
-</div>
-
+![Advance NLP & Generative AI](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Advance%20NLP%20%26%20Generative%20AI&fontSize=42&fontColor=ffffff)
 
 ---
 
