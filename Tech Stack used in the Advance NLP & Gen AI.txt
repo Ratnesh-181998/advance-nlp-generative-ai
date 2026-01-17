@@ -1,0 +1,99 @@
+Tech Stack used in the Advance NLP & Generative AI ( By Ratnesh Kumar Singh )
+
+🔹 Tech Stack
+•	Languages: Python
+•	Deep Learning: PyTorch, Transformers
+•	LLMs: GPT-3.5/4, BERT, LLaMA, Mistral
+•	Fine-Tuning: SFT, Instruction Tuning, RLHF (PPO, DPO), Quantization
+•	Frameworks: Hugging Face, LangChain, LlamaIndex, LangGraph
+•	Vector Databases: FAISS, ChromaDB, Qdrant, Pinecone, LanceDB
+•	RAG: Hybrid Search, Re-ranking, Knowledge-Graph RAG, Multimodal RAG
+•	AI Agents: ReAct, Structured Output Agents, Multi-Agent Systems
+•	Local LLMs: Ollama, LLaMA.cpp, LM Studio
+•	MLOps & Deployment: FastAPI, Flask, MLflow, ZenML, Prefect
+•	Cloud: AWS
+•	Monitoring: LangSmith, Evaluation & Cost Optimization
+
+
+________________________________________
+🧠 AI / ML & NLP
+•	Python
+•	PyTorch
+•	Transformers (Attention, Encoder–Decoder)
+•	Classical NLP Techniques
+•	Embeddings (Word & Sentence)
+________________________________________
+🤖 Large Language Models (LLMs)
+•	GPT-3.5 / GPT-4
+•	BERT
+•	LLAMA
+•	Mistral
+•	Open-Source Foundation Models
+________________________________________
+🔧 Fine-Tuning & Optimization
+•	Supervised Fine-Tuning (SFT)
+•	Instruction Fine-Tuning
+•	RLHF (PPO, DPO)
+•	Model Quantization (4-bit, 8-bit, 1-bit)
+•	PEFT / LoRA (conceptual)
+________________________________________
+📚 Frameworks & Libraries
+•	Hugging Face (Transformers, Hub, Spaces)
+•	LangChain
+•	LlamaIndex
+•	LangGraph
+•	CrewAI
+•	AutoGen
+________________________________________
+🔍 Vector Databases & Search
+•	FAISS
+•	ChromaDB
+•	Qdrant
+•	Pinecone
+•	LanceDB
+•	Annoy (Approximate Nearest Neighbor)
+•	Hybrid / Semantic / Multilingual Search
+________________________________________
+🔄 Retrieval-Augmented Generation (RAG)
+•	RAG Pipelines
+•	Hybrid Search & Re-ranking
+•	Knowledge Graph-based RAG
+•	Multimodal RAG (Text, Documents, Video)
+________________________________________
+🌐 AI APIs & Platforms
+•	OpenAI API
+•	Google Gemini
+•	Anthropic Claude
+________________________________________
+🧩 AI Agents
+•	ReAct Agent
+•	Structured Output Agent
+•	Self-Ask with Search
+•	Multi-Agent Systems
+•	Agentic RAG
+________________________________________
+🖥️ Local LLM & Inference Tools
+•	Ollama
+•	LLaMA.cpp
+•	LM Studio
+•	Hugging Face Model Downloader
+________________________________________
+🚀 Deployment, MLOps & Backend
+•	FastAPI
+•	Flask
+•	Docker (implied for deployment)
+•	MLflow
+•	ZenML
+•	Prefect
+•	CI/CD Pipelines
+________________________________________
+☁️ Cloud & Infrastructure
+•	AWS (Deployment for projects)
+•	Cloud platforms for LLM hosting & scaling
+________________________________________
+🧪 Monitoring & Evaluation
+•	LangSmith
+•	Model Evaluation Techniques
+•	Cost & Performance Optimization
+
+________________________________________
